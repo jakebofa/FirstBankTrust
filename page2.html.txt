@@ -1,6 +1,0 @@
-<! html>
-<html>
-  <body>
-      <p>page2</p>
-  </body>
-</html>
